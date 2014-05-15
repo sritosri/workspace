@@ -1,0 +1,4 @@
+#Wed Apr 10 22:43:03 CDT 2013
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
+RUN_IN_BACKGROUND=true
+eclipse.preferences.version=1
